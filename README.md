@@ -1,3 +1,4 @@
 # odin_recipes
-## my first real projects
+## my first project
 ## its called recipes
+## criticism allowed!
