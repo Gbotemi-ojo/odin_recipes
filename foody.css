@@ -3,10 +3,16 @@
 }
 body{
     color:rgb(38, 95, 38);
+    background-color: rgba(172, 134, 65,0.2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .image2{
     width:500px;
 }
 .image3{
     height:500px;
+}
+.random-text{
+    font-style: italic;
+    color: red;
 }
